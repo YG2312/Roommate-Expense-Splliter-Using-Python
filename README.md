@@ -5,3 +5,6 @@ This project provides a basic expense tracking application designed for roommate
 Required Library:
 Streamlit (pip install streamlit)
 python (python --version)
+
+![image](https://github.com/YG2312/Roommate-Expense-Tracker-Splliter-Using-Python/assets/112683735/c2551193-8604-42a3-a4d5-f860b38aa44e)
+
